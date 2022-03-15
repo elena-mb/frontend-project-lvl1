@@ -4,11 +4,11 @@
     "type": "module",
     "description": "[![Actions Status](https://github.com/elena-mb/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/elena-mb/frontend-project-lvl1/actions)",
     "main": "index.js",
-    "bin": {
-        "brain-games": "bin/brain-games.js"
-    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "brain-games": "bin/brain-games.js"
     },
     "repository": {
         "type": "git",
