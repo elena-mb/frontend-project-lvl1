@@ -3,5 +3,8 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 ![Node CI](https://github.com/elena-mb/frontend-project-lvl1/actions/workflows/github-actions.yml/badge.svg)
 
-Аскинема с примером запуска игры, победой и поражением игрока:
+Аскинема с примером запуска игры "brain-even", победой и поражением игрока:
 https://asciinema.org/a/WH25o6jiTW4wSZLjS0hVUTQ9T
+
+Аскинема с примером запуска игры "brain-calc", победой и поражением игрока:
+https://asciinema.org/a/6o9fN9g3aBIxXu1YmNx0jFwPg
