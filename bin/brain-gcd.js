@@ -7,8 +7,8 @@ const maxNum = 40;
 const getRandomNum = (max) => Math.floor(Math.random() * max);
 
 function game() {
-  const num1 = getRandomNum(maxNum);
-  const num2 = getRandomNum(num1);
+  const num1 = getRandomNum(maxNum) + 3;
+  const num2 = getRandomNum(num1) + 2;
   const findGcd = (a, b) => {
     if (a === b) return a;
     if (a > b) {
