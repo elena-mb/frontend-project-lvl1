@@ -22,7 +22,7 @@ function game() {
   const answer = isPrime(num) ? 'yes' : 'no';
   return {
     question: `${num}`,
-    rightAnswer: `${answer}`,
+    rightAnswer: answer,
   };
 }
 
