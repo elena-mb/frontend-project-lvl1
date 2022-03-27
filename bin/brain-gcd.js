@@ -3,7 +3,7 @@
 import playTheGame from '../src/index.js';
 
 const description = 'Find the greatest common divisor of given numbers.';
-const maxNum = 10;
+const maxNum = 40;
 const getRandomNum = (max) => Math.floor(Math.random() * max);
 
 function game() {
