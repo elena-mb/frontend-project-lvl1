@@ -3,5 +3,10 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 ![Node CI](https://github.com/elena-mb/frontend-project-lvl1/actions/workflows/github-actions.yml/badge.svg)
 
+### Setup:
+```
+make install
+```
+
 Аскинема с примером запуска игры, победой и поражением игрока:
 [![asciicast](https://asciinema.org/a/edeIJNAabNfmkcN1VelgGInqJ.svg)](https://asciinema.org/a/edeIJNAabNfmkcN1VelgGInqJ)
