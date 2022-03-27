@@ -8,5 +8,5 @@
 make install
 ```
 
-Аскинема с примером запуска игры, победой и поражением игрока:
+Asciinema with an example of starting the game, winning and losing:
 [![asciicast](https://asciinema.org/a/edeIJNAabNfmkcN1VelgGInqJ.svg)](https://asciinema.org/a/edeIJNAabNfmkcN1VelgGInqJ)
