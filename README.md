@@ -8,3 +8,6 @@ https://asciinema.org/a/WH25o6jiTW4wSZLjS0hVUTQ9T
 
 Аскинема с примером запуска игры "brain-calc", победой и поражением игрока:
 https://asciinema.org/a/6o9fN9g3aBIxXu1YmNx0jFwPg
+
+Аскинема с примером запуска игры "brain-gcd", победой и поражением игрока:
+https://asciinema.org/a/bgVAfa7OPGeZ9iinbtlffuNxn
