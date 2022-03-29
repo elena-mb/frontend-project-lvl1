@@ -1,15 +1,17 @@
 #!/usr/bin/env node
 
 import playTheGame from '../src/index.js';
+import { getRandomNum } from './myMath.js';
 
+const description = 'What is the result of the expression?';
 const operations = ['+', '-', '*'];
 const maxNum = 30;
-const getRandomNum = (max) => Math.floor(Math.random() * max);
+const minNum = 0;
 
 function game() {
-  const operation = operations[getRandomNum(operations.length)];
-  const num1 = getRandomNum(maxNum);
-  const num2 = getRandomNum(num1);
+  const operation = operations[getRandomNum(minNum, operations.length)];
+  const num1 = getRandomNum(minNum, maxNum);
+  const num2 = getRandomNum(minNum, num1);
   const calcResult = () => {
     if (operation === '+') return num1 + num2;
     if (operation === '-') return num1 - num2;
@@ -20,6 +22,5 @@ function game() {
     rightAnswer: calcResult().toString(),
   };
 }
-const description = 'What is the result of the expression?';
 
 playTheGame(game, description);
