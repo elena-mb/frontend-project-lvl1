@@ -9,4 +9,4 @@ make install
 ```
 
 Asciinema with an example of starting the game, winning and losing:
-[![asciicast](https://asciinema.org/a/edeIJNAabNfmkcN1VelgGInqJ.svg)](https://asciinema.org/a/edeIJNAabNfmkcN1VelgGInqJ)
+[![asciicast](https://asciinema.org/a/k8lJ60GLIg5jGjkCqNm59op6g.svg)](https://asciinema.org/a/k8lJ60GLIg5jGjkCqNm59op6g)
